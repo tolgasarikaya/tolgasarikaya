@@ -1,3 +1,4 @@
+<body style="background-color: black; color: white;">
 <h1 align="center">Hi 👋, I'm Tolga</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
@@ -16,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgasarikaya&show_icons=true&locale=en&layout=compact&theme=dark" alt="tolgasarikaya" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgasarikaya&show_icons=true&locale=en&theme=dark" alt="tolgasarikaya" /></p>
+</body>
